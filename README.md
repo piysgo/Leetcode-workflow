@@ -42,4 +42,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/piysgo/Leetcode-workflow/tree/master/2149-rearrange-array-elements-by-sign) |
+## Math
+|  |
+| ------- |
+| [0507-perfect-number](https://github.com/piysgo/Leetcode-workflow/tree/master/0507-perfect-number) |
 <!---LeetCode Topics End-->
