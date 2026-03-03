@@ -48,10 +48,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/piysgo/Leetcode-workflow/tree/master/0258-add-digits) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/piysgo/Leetcode-workflow/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Math
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/piysgo/Leetcode-workflow/tree/master/0258-add-digits) |
 | [0507-perfect-number](https://github.com/piysgo/Leetcode-workflow/tree/master/0507-perfect-number) |
 | [0877-stone-game](https://github.com/piysgo/Leetcode-workflow/tree/master/0877-stone-game) |
 ## Game Theory
@@ -70,4 +72,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/piysgo/Leetcode-workflow/tree/master/0073-set-matrix-zeroes) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/piysgo/Leetcode-workflow/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
