@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/piysgo/Leetcode-workflow/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/piysgo/Leetcode-workflow/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/piysgo/Leetcode-workflow/tree/master/0031-next-permutation) |
+| [0048-rotate-image](https://github.com/piysgo/Leetcode-workflow/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/piysgo/Leetcode-workflow/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/piysgo/Leetcode-workflow/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/piysgo/Leetcode-workflow/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/piysgo/Leetcode-workflow/tree/master/0048-rotate-image) |
 | [0258-add-digits](https://github.com/piysgo/Leetcode-workflow/tree/master/0258-add-digits) |
 | [0507-perfect-number](https://github.com/piysgo/Leetcode-workflow/tree/master/0507-perfect-number) |
 | [0877-stone-game](https://github.com/piysgo/Leetcode-workflow/tree/master/0877-stone-game) |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/piysgo/Leetcode-workflow/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/piysgo/Leetcode-workflow/tree/master/0073-set-matrix-zeroes) |
 ## Number Theory
 |  |
