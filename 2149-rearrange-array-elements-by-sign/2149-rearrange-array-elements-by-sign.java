@@ -4,7 +4,7 @@ class Solution {
         ArrayList <Integer> arr1 = new ArrayList<>();
         ArrayList <Integer> arr2 = new ArrayList<>();
         for(int i=0;i<n;i++){
-            if(nums[i]>0){
+            if(nums[i]>0){  
                 arr1.add(nums[i]);
             }else{
                 arr2.add(nums[i]);
