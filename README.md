@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/piysgo/Leetcode-workflow/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/piysgo/Leetcode-workflow/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/piysgo/Leetcode-workflow/tree/master/0169-majority-element) |
+| [0560-subarray-sum-equals-k](https://github.com/piysgo/Leetcode-workflow/tree/master/0560-subarray-sum-equals-k) |
 | [0877-stone-game](https://github.com/piysgo/Leetcode-workflow/tree/master/0877-stone-game) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/piysgo/Leetcode-workflow/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Two Pointers
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/piysgo/Leetcode-workflow/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/piysgo/Leetcode-workflow/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/piysgo/Leetcode-workflow/tree/master/0169-majority-element) |
+| [0560-subarray-sum-equals-k](https://github.com/piysgo/Leetcode-workflow/tree/master/0560-subarray-sum-equals-k) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -82,4 +84,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/piysgo/Leetcode-workflow/tree/master/0258-add-digits) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/piysgo/Leetcode-workflow/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
