@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/piysgo/Leetcode-workflow/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/piysgo/Leetcode-workflow/tree/master/0704-binary-search) |
 | [0877-stone-game](https://github.com/piysgo/Leetcode-workflow/tree/master/0877-stone-game) |
+| [0977-squares-of-a-sorted-array](https://github.com/piysgo/Leetcode-workflow/tree/master/0977-squares-of-a-sorted-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/piysgo/Leetcode-workflow/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Two Pointers
 |  |
@@ -23,12 +24,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/piysgo/Leetcode-workflow/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/piysgo/Leetcode-workflow/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/piysgo/Leetcode-workflow/tree/master/0075-sort-colors) |
+| [0977-squares-of-a-sorted-array](https://github.com/piysgo/Leetcode-workflow/tree/master/0977-squares-of-a-sorted-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/piysgo/Leetcode-workflow/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Sorting
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/piysgo/Leetcode-workflow/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/piysgo/Leetcode-workflow/tree/master/0169-majority-element) |
+| [0977-squares-of-a-sorted-array](https://github.com/piysgo/Leetcode-workflow/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
