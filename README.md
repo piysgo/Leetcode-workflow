@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/piysgo/Leetcode-workflow/tree/master/0507-perfect-number) |
 | [0728-self-dividing-numbers](https://github.com/piysgo/Leetcode-workflow/tree/master/0728-self-dividing-numbers) |
 | [0877-stone-game](https://github.com/piysgo/Leetcode-workflow/tree/master/0877-stone-game) |
+| [1903-largest-odd-number-in-string](https://github.com/piysgo/Leetcode-workflow/tree/master/1903-largest-odd-number-in-string) |
 ## Game Theory
 |  |
 | ------- |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/piysgo/Leetcode-workflow/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1903-largest-odd-number-in-string](https://github.com/piysgo/Leetcode-workflow/tree/master/1903-largest-odd-number-in-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -110,4 +112,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0371-sum-of-two-integers](https://github.com/piysgo/Leetcode-workflow/tree/master/0371-sum-of-two-integers) |
+## Greedy
+|  |
+| ------- |
+| [1903-largest-odd-number-in-string](https://github.com/piysgo/Leetcode-workflow/tree/master/1903-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
