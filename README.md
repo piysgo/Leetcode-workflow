@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/piysgo/Leetcode-workflow/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/piysgo/Leetcode-workflow/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/piysgo/Leetcode-workflow/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/piysgo/Leetcode-workflow/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/piysgo/Leetcode-workflow/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/piysgo/Leetcode-workflow/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0014-longest-common-prefix](https://github.com/piysgo/Leetcode-workflow/tree/master/0014-longest-common-prefix) |
 | [1903-largest-odd-number-in-string](https://github.com/piysgo/Leetcode-workflow/tree/master/1903-largest-odd-number-in-string) |
 ## Sliding Window
 |  |
@@ -116,4 +118,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1903-largest-odd-number-in-string](https://github.com/piysgo/Leetcode-workflow/tree/master/1903-largest-odd-number-in-string) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/piysgo/Leetcode-workflow/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
