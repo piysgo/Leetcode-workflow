@@ -19,7 +19,7 @@ class Solution {
     public static long Totalhrs(int[] piles, int mid){
         long hrs=0;
         for(int i:piles){
-        hrs += (i + mid - 1) / mid;        }
+hrs += (int)Math.ceil((double)(i)/mid);              }
         return hrs;
     }
 }
