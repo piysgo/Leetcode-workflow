@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/piysgo/Leetcode-workflow/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/piysgo/Leetcode-workflow/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/piysgo/Leetcode-workflow/tree/master/0242-valid-anagram) |
 | [0977-squares-of-a-sorted-array](https://github.com/piysgo/Leetcode-workflow/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/piysgo/Leetcode-workflow/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/piysgo/Leetcode-workflow/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/piysgo/Leetcode-workflow/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/piysgo/Leetcode-workflow/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/piysgo/Leetcode-workflow/tree/master/0560-subarray-sum-equals-k) |
 ## Divide and Conquer
 |  |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/piysgo/Leetcode-workflow/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/piysgo/Leetcode-workflow/tree/master/0014-longest-common-prefix) |
 | [0205-isomorphic-strings](https://github.com/piysgo/Leetcode-workflow/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/piysgo/Leetcode-workflow/tree/master/0242-valid-anagram) |
 | [0796-rotate-string](https://github.com/piysgo/Leetcode-workflow/tree/master/0796-rotate-string) |
 | [1903-largest-odd-number-in-string](https://github.com/piysgo/Leetcode-workflow/tree/master/1903-largest-odd-number-in-string) |
 ## Sliding Window
