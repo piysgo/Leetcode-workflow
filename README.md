@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/piysgo/Leetcode-workflow/tree/master/0075-sort-colors) |
 | [0344-reverse-string](https://github.com/piysgo/Leetcode-workflow/tree/master/0344-reverse-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/piysgo/Leetcode-workflow/tree/master/0977-squares-of-a-sorted-array) |
+| [1768-merge-strings-alternately](https://github.com/piysgo/Leetcode-workflow/tree/master/1768-merge-strings-alternately) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/piysgo/Leetcode-workflow/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Sorting
 |  |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/piysgo/Leetcode-workflow/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/piysgo/Leetcode-workflow/tree/master/0344-reverse-string) |
 | [0796-rotate-string](https://github.com/piysgo/Leetcode-workflow/tree/master/0796-rotate-string) |
+| [1768-merge-strings-alternately](https://github.com/piysgo/Leetcode-workflow/tree/master/1768-merge-strings-alternately) |
 | [1903-largest-odd-number-in-string](https://github.com/piysgo/Leetcode-workflow/tree/master/1903-largest-odd-number-in-string) |
 ## Sliding Window
 |  |
