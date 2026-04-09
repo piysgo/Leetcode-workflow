@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/piysgo/Leetcode-workflow/tree/master/0005-longest-palindromic-substring) |
 | [0027-remove-element](https://github.com/piysgo/Leetcode-workflow/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/piysgo/Leetcode-workflow/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/piysgo/Leetcode-workflow/tree/master/0075-sort-colors) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/piysgo/Leetcode-workflow/tree/master/0005-longest-palindromic-substring) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/piysgo/Leetcode-workflow/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0877-stone-game](https://github.com/piysgo/Leetcode-workflow/tree/master/0877-stone-game) |
 ## Simulation
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/piysgo/Leetcode-workflow/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/piysgo/Leetcode-workflow/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/piysgo/Leetcode-workflow/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/piysgo/Leetcode-workflow/tree/master/0014-longest-common-prefix) |
 | [0205-isomorphic-strings](https://github.com/piysgo/Leetcode-workflow/tree/master/0205-isomorphic-strings) |
