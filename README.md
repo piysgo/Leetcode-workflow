@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/piysgo/Leetcode-workflow/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/piysgo/Leetcode-workflow/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/piysgo/Leetcode-workflow/tree/master/0169-majority-element) |
+| [0410-split-array-largest-sum](https://github.com/piysgo/Leetcode-workflow/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/piysgo/Leetcode-workflow/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/piysgo/Leetcode-workflow/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/piysgo/Leetcode-workflow/tree/master/0875-koko-eating-bananas) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/piysgo/Leetcode-workflow/tree/master/0005-longest-palindromic-substring) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/piysgo/Leetcode-workflow/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0410-split-array-largest-sum](https://github.com/piysgo/Leetcode-workflow/tree/master/0410-split-array-largest-sum) |
 | [0877-stone-game](https://github.com/piysgo/Leetcode-workflow/tree/master/0877-stone-game) |
 ## Simulation
 |  |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/piysgo/Leetcode-workflow/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/piysgo/Leetcode-workflow/tree/master/0560-subarray-sum-equals-k) |
 ## Binary Search
 |  |
@@ -136,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/piysgo/Leetcode-workflow/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/piysgo/Leetcode-workflow/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/piysgo/Leetcode-workflow/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0410-split-array-largest-sum](https://github.com/piysgo/Leetcode-workflow/tree/master/0410-split-array-largest-sum) |
 | [0704-binary-search](https://github.com/piysgo/Leetcode-workflow/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/piysgo/Leetcode-workflow/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/piysgo/Leetcode-workflow/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -149,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/piysgo/Leetcode-workflow/tree/master/0410-split-array-largest-sum) |
 | [1903-largest-odd-number-in-string](https://github.com/piysgo/Leetcode-workflow/tree/master/1903-largest-odd-number-in-string) |
 ## Trie
 |  |
