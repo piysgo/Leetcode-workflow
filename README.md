@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/piysgo/Leetcode-workflow/tree/master/0344-reverse-string) |
 | [0451-sort-characters-by-frequency](https://github.com/piysgo/Leetcode-workflow/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/piysgo/Leetcode-workflow/tree/master/0796-rotate-string) |
+| [1021-remove-outermost-parentheses](https://github.com/piysgo/Leetcode-workflow/tree/master/1021-remove-outermost-parentheses) |
 | [1768-merge-strings-alternately](https://github.com/piysgo/Leetcode-workflow/tree/master/1768-merge-strings-alternately) |
 | [1903-largest-odd-number-in-string](https://github.com/piysgo/Leetcode-workflow/tree/master/1903-largest-odd-number-in-string) |
 ## Sliding Window
@@ -185,4 +186,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/piysgo/Leetcode-workflow/tree/master/0451-sort-characters-by-frequency) |
+## Stack
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/piysgo/Leetcode-workflow/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
