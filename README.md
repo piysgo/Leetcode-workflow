@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/piysgo/Leetcode-workflow/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/piysgo/Leetcode-workflow/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/piysgo/Leetcode-workflow/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/piysgo/Leetcode-workflow/tree/master/0345-reverse-vowels-of-a-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/piysgo/Leetcode-workflow/tree/master/0977-squares-of-a-sorted-array) |
 | [1768-merge-strings-alternately](https://github.com/piysgo/Leetcode-workflow/tree/master/1768-merge-strings-alternately) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/piysgo/Leetcode-workflow/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/piysgo/Leetcode-workflow/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/piysgo/Leetcode-workflow/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/piysgo/Leetcode-workflow/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/piysgo/Leetcode-workflow/tree/master/0345-reverse-vowels-of-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/piysgo/Leetcode-workflow/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/piysgo/Leetcode-workflow/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/piysgo/Leetcode-workflow/tree/master/1021-remove-outermost-parentheses) |
